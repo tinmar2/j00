@@ -1,0 +1,4 @@
+dn: uid=mpellemo,ou=2013,ou=people,dc=42,dc=fr
+changetype: modify
+replace: mobile-phone
+mobile-phone: 0617337278

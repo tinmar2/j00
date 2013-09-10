@@ -1,0 +1,7 @@
+Credentials cache: API:6343:37
+        Principal: mpellemo@42.FR
+
+  Issued                Expires               Principal
+Sep  9 15:52:35 2013  Sep 16 15:52:35 2013  krbtgt/42.FR@42.FR
+Sep  9 18:16:00 2013  Sep 16 15:52:35 2013  host/vogsphere-frontend-normal-1.42.fr@42.FR
+Sep  9 19:40:18 2013  Sep 16 15:52:35 2013  ldap/ldap-proxy.42.fr@42.FR
